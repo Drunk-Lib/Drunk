@@ -1,2 +1,6 @@
 # Drunk
-Epic Games, just know that im coming
+-------
+
+Drunk lets users play Fortnite on their Linux desktops.
+
+Not affiliated with Fortnite/Epic Games.
